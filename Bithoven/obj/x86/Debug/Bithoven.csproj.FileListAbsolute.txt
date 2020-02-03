@@ -1,0 +1,38 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Bithoven\Bithoven\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Bithoven\Bithoven\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Bithoven\Bithoven\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Bithoven\Bithoven\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Bithoven\Bithoven\obj\x86\Debug\WindowsFormsApplication1.BitHoven.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Bithoven\Bithoven\bin\Debug\Bithoven.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Bithoven\Bithoven\bin\Debug\Bithoven.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Bithoven\Bithoven\obj\x86\Debug\Bithoven.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Bithoven\Bithoven\obj\x86\Debug\Bithoven.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Bithoven\Bithoven\bin\Debug\NAudio.dll
+C:\Users\Chris\documents\visual studio 2010\Projects\Bithoven\Bithoven\bin\Debug\NAudio.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Bithoven\Bithoven\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\Chris\documents\visual studio 2010\Projects\Bithoven\Bithoven\obj\x86\Debug\Bithoven.csproj.ResolveComReference.cache
+C:\Users\Chris\Dropbox\Bithoven\Bithoven\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\Chris\Dropbox\Bithoven\Bithoven\obj\x86\Debug\Bithoven.csproj.ResolveComReference.cache
+C:\Users\Chris\Dropbox\Bithoven\Bithoven\obj\x86\Debug\Bithoven.exe
+C:\Users\Chris\Dropbox\Bithoven\Bithoven\obj\x86\Debug\Bithoven.pdb
+C:\Users\Chris\Dropbox\Bithoven\Bithoven\bin\Debug\Bithoven.exe
+C:\Users\Chris\Dropbox\Bithoven\Bithoven\bin\Debug\Bithoven.pdb
+C:\Users\Chris\Dropbox\Bithoven\Bithoven\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Dropbox\Bithoven\Bithoven\obj\x86\Debug\WindowsFormsApplication1.BitHoven.resources
+C:\Users\Chris\Dropbox\Bithoven\Bithoven\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Chris\Dropbox\Bithoven\Bithoven\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\Dropbox\Bithoven\Bithoven\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\Documents\My Dropbox\Bithoven\Bithoven\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\Chris\Documents\My Dropbox\Bithoven\Bithoven\obj\x86\Debug\Bithoven.csproj.ResolveComReference.cache
+C:\Users\Chris\Documents\My Dropbox\Bithoven\Bithoven\obj\x86\Debug\Bithoven.exe
+C:\Users\Chris\Documents\My Dropbox\Bithoven\Bithoven\obj\x86\Debug\Bithoven.pdb
+C:\Users\Mike\Desktop\code\distrib\distrib\Bithoven\bin\Debug\Bithoven.exe
+C:\Users\Mike\Desktop\code\distrib\distrib\Bithoven\bin\Debug\Bithoven.pdb
+C:\Users\Mike\Desktop\code\distrib\distrib\Bithoven\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\Mike\Desktop\code\distrib\distrib\Bithoven\obj\x86\Debug\Bithoven.csproj.ResolveComReference.cache
+C:\Users\Mike\Desktop\code\distrib\distrib\Bithoven\obj\x86\Debug\WindowsFormsApplication1.BitHoven.resources
+C:\Users\Mike\Desktop\code\distrib\distrib\Bithoven\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mike\Desktop\code\distrib\distrib\Bithoven\obj\x86\Debug\Bithoven.csproj.GenerateResource.cache
+C:\Users\Mike\Desktop\code\distrib\distrib\Bithoven\obj\x86\Debug\Bithoven.csproj.CopyComplete
+C:\Users\Mike\Desktop\code\distrib\distrib\Bithoven\obj\x86\Debug\Bithoven.exe
+C:\Users\Mike\Desktop\code\distrib\distrib\Bithoven\obj\x86\Debug\Bithoven.pdb
